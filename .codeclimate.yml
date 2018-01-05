@@ -4,6 +4,5 @@ plugins:
     enabled: true
   eslint:
     enabled: true
-    channel: "eslint-4"
     config:
       config: ./.eslintrc.json
